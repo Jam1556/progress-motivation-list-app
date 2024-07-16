@@ -1,0 +1,3 @@
+Show tasks
+Track progress and show when completed
+Make daily and weekly tasks
